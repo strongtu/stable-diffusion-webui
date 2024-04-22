@@ -8,3 +8,9 @@ wget -c -O models/vae/sdxl_vae.safetensors https://huggingface.co/BetterThanNoth
 wget -c -O models/vae/animevae.pt https://huggingface.co/akibanzu/animevae/resolve/main/animevae.pt
 
 
+wget -c -O models\ControlNet\control_v11p_sd15_lineart.pth https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth
+wget -c -O models\ControlNet\control_v11p_sd15_lineart.yaml https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.yaml
+wget -c -O models\ControlNet\control_v11p_sd15_normalbae.pth https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae.pth
+wget -c -O models\ControlNet\control_v11p_sd15_normalbae.yaml https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae.yaml
+wget -c -O models\ControlNet\control_v11p_sd15_openpose.pth https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth
+wget -c -O models\ControlNet\control_v11p_sd15_openpose.yaml https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.yaml
